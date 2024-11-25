@@ -32,3 +32,6 @@ or
 
 ## Accessing App
 URL: http://localhost - as default Laravel based project. Simply register with any user details to access feature.
+
+## Local development environment has got Telescope:
+URL: http://localhost/telescope
